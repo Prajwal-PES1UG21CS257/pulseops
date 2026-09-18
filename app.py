@@ -1,1 +1,1 @@
-print("PulseOps application started")
+print("PulseOps application is running")
